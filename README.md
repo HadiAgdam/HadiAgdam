@@ -14,11 +14,14 @@ Welcome to my GitHub profile! I'm a passionate **Android Developer** with a stro
 ## 🧑‍💻 About Me
 
 - 🌱 **Currently Learning:** Jetpack Compose for modern Android development
-- 🎖️ **Achievements:** Secured **2nd place** in the Iran Skills Competition (Android category) in 1401 (Gorgan city)
+- 🎓 **Upcoming Studies:** Planning to study **Computer Engineering** next year
+- 🎖️ **Achievements:** Secured **2nd place** in the Iran Skills Competition (Android category) in 1401 (Gorgan)
 - 📍 **Born and Raised:** Tabriz, Iran
 - 🎂 **Age:** 19
-- 🖥️ **Operating Systems:** macOS, Linux, Windows
-- 🔭 **Interest:** Physics
+- - 🏳️ **Nationality:** Iranian 🇮🇷
+- 🖥️ **Operating Systems:** macOS, Linux (Debian-based), Windows
+- 🗣️ **Languages:** Azeri, Persian, English
+- 🔭 **Interest:** Dynamic physics
 
 ## 🔧 Technologies & Skills
 
