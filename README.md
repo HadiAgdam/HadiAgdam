@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate **Android Developer** with a stro
 - 🎖️ **Achievements:** Secured **2nd place** in the Iran Skills Competition (Android category) in 1401 (Gorgan)
 - 📍 **Born and Raised:** Tabriz, Iran
 - 🎂 **Age:** 19
-- - 🏳️ **Nationality:** Iranian 🇮🇷
+- 🏳️ **Nationality:** Iranian 🇮🇷
 - 🖥️ **Operating Systems:** macOS, Linux (Debian-based), Windows
 - 🗣️ **Languages:** Azeri, Persian, English
 - 🔭 **Interest:** Dynamic physics
