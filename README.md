@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate **Android Developer** with a stro
 ## 🧑‍💻 About Me
 
 - 🌱 **Currently Learning:** Jetpack Compose for modern Android development
-- 🎓 **Upcoming Studies:** Planning to study **Computer Engineering** next year
+- 🎓 **Degree:** Studying for a Bachelor's in statistics at the University of Tabriz
 - 🎖️ **Achievements:** Secured **2nd place** in the Iran Skills Competition (Android category) in 1401 (Gorgan)
 - 📍 **Born and Raised:** Tabriz, Iran
 - 🎂 **Age:** 19
