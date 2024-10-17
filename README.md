@@ -1,3 +1,5 @@
+#### 👋 Hi, My name is 
+
 ```
  _   _               _   _      _                  _                     
 | | | |   __ _    __| | (_)    / \      __ _    __| |   __ _   _ __ ___  
@@ -6,9 +8,6 @@
 |_| |_|  \__,_|  \__,_| |_| /_/   \_\  \__, |  \__,_|  \__,_| |_| |_| |_|
                                        |___/                             
 ```
-
-#### 👋 Hi, My name is 
-# Hadi Agdam
 
 Welcome to my GitHub profile! I'm a passionate **Android Developer** with a strong grasp of **Kotlin** and experience in **Java**, **Python**, **C#**, and a bit of **Bash** and **C++**. I enjoy working on various projects, including Android applications, Python scripts, and small hobby projects with Arduino modules.
 
