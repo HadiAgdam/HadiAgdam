@@ -17,15 +17,7 @@ Welcome to my GitHub profile! I'm a passionate **Android Developer** with a stro
 - 🎖️ **Achievements:** Secured **2nd place** in the Iran Skills Competition (Android category) in 1401 (Gorgan)
 - 🔭 **Interest:** Dynamic physics, Backend development with java / c#
 
-## 🔧 Technologies & Skills
-
-### **Android Development**
-- **Kotlin**
-- **Java**
-- **XML**
-- **Jetpack Compose**
-
-### **Programming Languages**
+## **Programming Languages**
 - **Kotlin** (Android Compose / XML)
 - **Java** (Android XML, swing for desktop applications)
 - **C#** (.Net development -> Windows Forms and ASP)
