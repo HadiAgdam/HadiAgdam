@@ -9,42 +9,27 @@
                                        |___/                             
 ```
 
-Welcome to my GitHub profile! I'm a passionate **Android Developer** with a strong grasp of **Kotlin** and experience in **Java**, **Python**, **C#**, and a bit of **Bash** and **C++**. I enjoy working on various projects, including Android applications, Python scripts, and small hobby projects with Arduino modules.
+Welcome to my GitHub profile! I'm a passionate **Android Developer** with a strong grasp of **Kotlin** and experience in **Java**, **Python**, **C#**. I enjoy working on various projects, including Android applications, Python scripts, algorithmic challanges and small hobby projects with Arduino modules.
 
 ## 🧑‍💻 About Me
 
-- 🌱 **Currently Learning:** Jetpack Compose for modern Android development
 - 🎓 **Degree:** Studying for a Bachelor's in statistics at the University of Tabriz
 - 🎖️ **Achievements:** Secured **2nd place** in the Iran Skills Competition (Android category) in 1401 (Gorgan)
-- 📍 **Born and Raised:** Tabriz, Iran
-- 🎂 **Age:** 19
-- 🏳️ **Nationality:** Iranian 🇮🇷
-- 🖥️ **Operating Systems:** macOS, Linux (Debian-based), Windows
-- 🗣️ **Languages:** Azeri, Persian, English
-- 🔭 **Interest:** Dynamic physics
+- 🔭 **Interest:** Dynamic physics, Backend development with java / c#
 
 ## 🔧 Technologies & Skills
 
 ### **Android Development**
-- **Kotlin** (Best Known)
+- **Kotlin**
 - **Java**
-- **XML** (Traditional Android UI)
-- **Jetpack Compose** (Learning)
+- **XML**
+- **Jetpack Compose**
 
-### **Backend Development**
-- **Python** (OpenCV, Flask)
-- **C#** (ASP.NET, Windows Forms)
-
-### **Other Skills**
-- **C++** (Basic knowledge, small hobby projects)
-- **Bash** (Basic scripting)
-
-## 🛠️ Projects and Experience
-
-- Worked on various Android applications, from traditional XML-based UI to modern Jetpack Compose.
-- Created Python scripts using OpenCV for image processing.
-- Developed backend applications with Flask (Python) and ASP.NET (C#).
-- Played with Arduino modules to build fun, small-scale projects.
+### **Programming Languages**
+- **Kotlin** (Android Compose / XML)
+- **Java** (Android XML, swing for desktop applications)
+- **C#** (.Net development -> Windows Forms and ASP)
+- **Python** (Flask, Opencv, Pygame) 
 
 Feel free to explore my repositories to see what I'm working on or have worked on in the past!
 
