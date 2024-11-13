@@ -9,7 +9,7 @@
                                        |___/                             
 ```
 
-Welcome to my GitHub profile! I'm a passionate **Android Developer** with a strong grasp of **Kotlin** and experience in **Java**, **Python**, **C#**. I enjoy working on various projects, including Android applications, Python scripts, algorithmic challanges and small hobby projects with Arduino modules.
+Welcome to my GitHub profile! I'm a passionate **Android Developer** with a strong grasp of **Kotlin** and experience in **Java**, **Python**, **C#**. I enjoy working on various projects, including Android applications, Python scripts, algorithmic challenges, and small hobby projects with Arduino modules.
 
 ## 🧑‍💻 About Me
 
@@ -27,7 +27,6 @@ Feel free to explore my repositories to see what I'm working on or have worked o
 
 ## 📫 How to Reach Me
 
-- [GitHub](https://github.com/HadiAgdam)
 - **Email:** [hadiagdam0@gmail.com](mailto:hadiagdam0@gmail.com)
 
 Thank you for visiting my profile! I'm always open to collaboration and learning new things. Let's connect and create something amazing together!
