@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate **Android Developer** with a stro
 
 ## **Programming Languages**
 - **Kotlin** (Android Compose / XML)
-- **Java** (Android XML, swing for desktop applications)
+- **Java** (Android XML)
 - **C#** (.Net development -> Windows Forms and ASP)
 - **Python** (Flask, Opencv, Pygame) 
 
