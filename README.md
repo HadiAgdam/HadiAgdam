@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate **Android Developer** with a stro
 
 - 🎓 **Degree:** Studying for a Bachelor's in statistics at the University of Tabriz
 - 🎖️ **Achievements:** Secured **2nd place** in the Iran Skills Competition (Android category) in 1401 (Gorgan)
-- 🔭 **Interest:** Dynamic physics, Backend development with java / c#
+- 🔭 **Interest:** Dynamic physics
 
 ## **Programming Languages**
 - **Kotlin** (Android Compose / XML)
