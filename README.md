@@ -1,3 +1,14 @@
+#### 👋 Hi, My name is 
+
+```
+ _   _               _   _      _                  _                     
+| | | |   __ _    __| | (_)    / \      __ _    __| |   __ _   _ __ ___  
+| |_| |  / _` |  / _` | | |   / _ \    / _` |  / _` |  / _` | | '_ ` _ \ 
+|  _  | | (_| | | (_| | | |  / ___ \  | (_| | | (_| | | (_| | | | | | | |
+|_| |_|  \__,_|  \__,_| |_| /_/   \_\  \__, |  \__,_|  \__,_| |_| |_| |_|
+                                       |___/                             
+```
+
 # 💫 About Me:
 🔭 I’m currently working on Peyvand and BlackBoxChat<br>🎓 Degree: Studying for a Bachelor's in statistics at the University of Tabriz<br>🎖️ Achievements: Secured 2nd place in the Iran Skills Competition (Android category) in 1401 (Gorgan)<br>
 
