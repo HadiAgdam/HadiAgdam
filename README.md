@@ -1,23 +1,31 @@
-# Hadi Agdam — portfolio
+#### 👋 Hi, My name is 
 
-A lightweight, dependency-free personal portfolio built with plain HTML, CSS, and JavaScript. It can be opened directly, served by VS Code Live Server, or published from the repository root on GitHub Pages.
-
-## Local development
-
-No installation or build step is required. Open `index.html` directly or use VS Code Live Server. A simple static server also works:
-
-```bash
-python -m http.server
+```
+ _   _               _   _      _                  _                     
+| | | |   __ _    __| | (_)    / \      __ _    __| |   __ _   _ __ ___  
+| |_| |  / _` |  / _` | | |   / _ \    / _` |  / _` |  / _` | | '_ ` _ \ 
+|  _  | | (_| | | (_| | | |  / ___ \  | (_| | | (_| | | (_| | | | | | | |
+|_| |_|  \__,_|  \__,_| |_| /_/   \_\  \__, |  \__,_|  \__,_| |_| |_| |_|
+                                       |___/                             
 ```
 
-The browser loads `styles.css`, `main.js`, and the images using relative paths, so the project works under the GitHub Pages project URL `/HadiAgdam/` without a Vite base-path configuration.
+# 💫 About Me:
+🎓 Degree: Studying for a Bachelor's in statistics at the University of Tabriz<br>🎖️ Achievements: Secured 2nd place in the Iran Skills Competition (Android category) in 1401 (Gorgan), Secured first place in MFTabriz competation with .NET<br>
 
-## GitHub Pages
 
-In the repository’s **Settings → Pages**, choose the `main` branch and the `/ (root)` folder as the deployment source. No GitHub Actions workflow or build command is needed. Do not deploy the old `dist` folder or open a React/Vite source entry; this repository is now a static site.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hadiagdam0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hadiagdam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hadiagdam0@gmail.com) 
 
-GitHub Pages cannot run the old PHP mail endpoint, so contact is provided through the verified email, Telegram, GitHub, and LinkedIn links.
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=HadiAgdam&theme=dark&hide_border=false)<br/>
 
-## Content
 
-The portfolio preserves the verified information from the original site and profile: Hadi Agdam’s software engineering focus, Tabriz location, education, competition recognitions, skills, services, and public contact links. The source did not contain named projects or professional employment history, so those gaps are represented honestly in the interface rather than filled with invented claims.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=HadiAgdam&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=HadiAgdam&icon=0&color=3)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
